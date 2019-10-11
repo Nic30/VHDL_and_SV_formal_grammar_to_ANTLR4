@@ -7,3 +7,8 @@ gen/
 *.interp
 *.java
 *.tokens
+.cproject
+.project
+.pydevproject
+.settings/
+
